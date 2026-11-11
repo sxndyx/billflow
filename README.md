@@ -25,7 +25,7 @@ You need macOS with [Homebrew](https://brew.sh). Everything else the installer
 handles.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/billflow.git
+git clone https://github.com/sxndyx/billflow.git
 cd billflow
 ./setup.command
 ```
